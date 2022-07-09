@@ -1,4 +1,4 @@
-<p align="center"><img width=12.5% src="LOGO HERE" alt="Logo"></p>
+<p align="center"><img width=600 height=400 src="https://github.com/NESTools/ReadWriteProcess/blob/main/res/ReadWriteProcessLogo.jpg" alt="Logo"></p>
 
 <h1 align="center" />
 
