@@ -35,9 +35,9 @@
 <tr>
 <td>
   
-**ReadWriteProcess** is a *cross-platfrom* memory manipulation library (typically used for cheating in video games). This library is intented (an tested) for Python3.6 and above. Other versions *may* function below Python3.6 .
+**ReadWriteProcess** is a *cross-platfrom* memory manipulation library (typically used for cheating in video games). This library is intented (an tested) for Python3.6 and above. Other versions *may* function below Python3.6, even so versions below 3.6 won't be given support until further notice.
 
-This library comes with all the functions require to read and edit the memory of a program. *Please note pointer functions have yet to have been added*! If this repo hits **5 stars** I'll add pointer functionality.
+This library comes with all the functions required to read and writre memory of a proccess. *Please note pointer support has yet to been added*! If this repo hits **5 stars** I'll add pointer functionality.
 
 ![Example1](https://github.com/NESTools/ReadWriteProcess/blob/main/res/example1.png)
 <p align="right">
@@ -57,7 +57,7 @@ pip install ReadWriteProcess
 ```
 
 ## Examples
-Add these when the library is fuly bug free :)
+Add these when the library is bug free :)
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
