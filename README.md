@@ -31,9 +31,9 @@
 
 ## About
 
-<table>
+<!--<table>
 <tr>
-<td>
+<td>-->
   
 **ReadWriteProcess** is a *cross-platfrom* memory manipulation library (typically used for cheating in video games). This library is intented (an tested) for Python3.6 and above. Other versions *may* function below Python3.6, even so versions below 3.6 won't be given support until further notice.
 
@@ -44,9 +44,9 @@ This library comes with all the functions required to read and writre memory of 
 <sub>(Preview modding TLoZ)</sub>
 </p>
 
-</td>
+<!--</td>
 </tr>
-</table>
+</table>-->
 
 ## Installation
 
