@@ -53,11 +53,12 @@ This library comes with all the functions required to read and writre memory of 
 ##### Downloading and installing steps:
 The easiest way to install stable versions of **ReadWriteProcess** is using pip
 ```shell
+# !NOTE! ReadWriteProcess is currently not on PYPI!
 pip install ReadWriteProcess
 ```
 
 ## Examples
-Add these when the library is bug free :)
+When all bugs are cleaned up I'll add some examples.
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
